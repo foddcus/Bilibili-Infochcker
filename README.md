@@ -55,7 +55,7 @@ dotnet build AudioText.App\AudioText.App.csproj --no-restore -o build_verify\Aud
 
 第三方工具和模型遵循其各自许可证，详见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
 
-## 许可证
+## 下载
 直接下载（AI和web Search的api需要自己买）：
 视频嚼真机-V1.0-win-x64.zip（~240M，需要自己下模型和接口）
 链接: https://pan.baidu.com/s/1frG3Us_crU8_r09yjSadmQ?pwd=56w4 提取码: 56w4 
