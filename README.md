@@ -51,3 +51,9 @@ dotnet build AudioText.App\AudioText.App.csproj -c Release
 本项目采用 [PolyForm Noncommercial License 1.0.0](LICENSE.md) 做非商业使用授权。该授权不是 OSI 认证的开源许可证；商业使用、商用集成、销售、SaaS 转售或内部商业生产用途需另行获得授权。
 
 第三方工具和模型遵循其各自许可证，详见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
+
+
+##直接下载
+视频嚼真机-V1.0-win-x64.zip（~240M）
+链接: https://pan.baidu.com/s/11LMiKUWlX2iNFB0GF8D_sg?pwd=31zd 提取码: 31zd 
+
