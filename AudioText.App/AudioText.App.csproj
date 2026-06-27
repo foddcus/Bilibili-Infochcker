@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\AudioText.Core\AudioText.Core.csproj" />
+    <ProjectReference Include="..\AudioText.Capture\AudioText.Capture.csproj" />
+    <ProjectReference Include="..\AudioText.Download\AudioText.Download.csproj" />
+    <ProjectReference Include="..\AudioText.Transcription\AudioText.Transcription.csproj" />
+    <ProjectReference Include="..\AudioText.Export\AudioText.Export.csproj" />
+    <ProjectReference Include="..\AudioText.Infrastructure\AudioText.Infrastructure.csproj" />
+    <ProjectReference Include="..\AudioText.Verification\AudioText.Verification.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\app-icon.ico" />
+    <None Remove="Assets\app-icon.png" />
+    <None Remove="Assets\top-right-background.png" />
+    <Resource Include="Assets\app-icon.ico" />
+    <Resource Include="Assets\app-icon.png" />
+    <Resource Include="Assets\top-right-background.png" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <ApplicationIcon>Assets\app-icon.ico</ApplicationIcon>
+    <Version>1.1.0</Version>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <FileVersion>1.1.0.0</FileVersion>
+    <InformationalVersion>V1.1</InformationalVersion>
+    <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
+    <Product>视频嚼真机</Product>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+</Project>
